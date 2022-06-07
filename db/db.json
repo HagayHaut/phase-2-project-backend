@@ -1,5 +1,56 @@
 {
   "games": [
-   
+    {
+      "username": "hagay",
+      "score": 9,
+      "settings": {
+        "passwordLength": "4",
+        "randomEventsLimit": "0",
+        "numberOfGameBoards": "5",
+        "showTimer": false
+      },
+      "password": "0381",
+      "guesses": [
+        {
+          "guess": "1234",
+          "random": false
+        },
+        {
+          "guess": "5678",
+          "random": false
+        },
+        {
+          "guess": "1239",
+          "random": false
+        },
+        {
+          "guess": "9567",
+          "random": false
+        },
+        {
+          "guess": "9576",
+          "random": false
+        },
+        {
+          "guess": "9657",
+          "random": false
+        },
+        {
+          "guess": "0821",
+          "random": false
+        },
+        {
+          "guess": "0813",
+          "random": false
+        },
+        {
+          "guess": "0381",
+          "random": false
+        }
+      ],
+      "time": 114,
+      "date": "2022-05-13T23:58:12.931Z",
+      "id": 1
+    }
   ]
 }
